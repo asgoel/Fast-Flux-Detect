@@ -1,0 +1,21 @@
+@relation numerictesting
+
+@attribute num_A numeric
+@attribute num_ASN numeric
+@attribute TTL numeric
+@attribute num_distinct_networks numeric
+@attribute num_NS numeric
+@attribute entropy_A numeric
+@attribute entropy_NS numeric
+@attribute ave_MSD numeric
+@attribute sd_MSD numeric
+@attribute ND numeric
+@attribute sd_ND numeric
+@attribute DFD numeric
+@attribute sd_DFD numeric
+@attribute PD numeric
+@attribute sd_PD numeric
+@attribute fastflux {-1,1}
+
+@data
+10.000000,10.000000,300.000000,10.000000,0.000000,0.736452,0.000000,0.000000,0.000000,0.000309,0.000272,3.464070,1.011083,1.670998,0.588255,-1

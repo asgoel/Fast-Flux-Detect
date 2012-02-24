@@ -1,0 +1,13 @@
+{
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "112.105.127.80",
+	"countryCode" : "TW",
+	"countryName" : "TAIWAN",
+	"regionName" : "-",
+	"cityName" : "-",
+	"zipCode" : "-",
+	"latitude" : "25.017",
+	"longitude" : "121.45",
+	"timeZone" : "+08:00"
+}

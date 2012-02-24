@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.7.3 <<>> ebonyeabaqyb.com NS
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60118
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ebonyeabaqyb.com.		IN	NS
+
+;; AUTHORITY SECTION:
+ebonyeabaqyb.com.	300	IN	SOA	ns1.ebonyeabaqyb.com. hostmaster.ebonyeabaqyb.com. 4294967295 7200 3600 86400 300
+
+;; Query time: 422 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Fri Aug 12 15:51:21 2011
+;; MSG SIZE  rcvd: 85
+

@@ -1,0 +1,2 @@
+AS      | IP               | BGP Prefix          | CC | Registry | Allocated  | AS Name
+4780    | 112.105.127.80   | 112.105.96.0/19     | TW | apnic    | 2009-01-13 | SEEDNET Digital United Inc.

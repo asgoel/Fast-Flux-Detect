@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.7.3 <<>> ns3.google.com.
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44678
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ns3.google.com.			IN	A
+
+;; ANSWER SECTION:
+ns3.google.com.		66189	IN	A	216.239.36.10
+
+;; Query time: 18 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Fri Aug 12 15:49:26 2011
+;; MSG SIZE  rcvd: 48
+
